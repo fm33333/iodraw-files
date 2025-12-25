@@ -130,6 +130,9 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-48" value="审批任务&lt;div&gt;（通过/驳回）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-49" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
