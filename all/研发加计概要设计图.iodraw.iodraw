@@ -41,10 +41,10 @@
           <mxGeometry x="110" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-9" value="查询详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-10" value="启用/停用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-11" target="dOceR1FkfeFBerie9IaR-14">
           <mxGeometry relative="1" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-33" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="384" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-36" value="查询流程信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="146" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
