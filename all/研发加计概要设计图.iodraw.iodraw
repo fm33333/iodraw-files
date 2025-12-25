@@ -31,8 +31,8 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-9" value="查询详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dOceR1FkfeFBerie9IaR-10" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="dOceR1FkfeFBerie9IaR-10" value="启用/停用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
