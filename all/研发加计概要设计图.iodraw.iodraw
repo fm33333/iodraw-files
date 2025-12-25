@@ -22,6 +22,9 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-5" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-6" target="dOceR1FkfeFBerie9IaR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-6" value="修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="60" height="30" as="geometry" />
         </mxCell>
@@ -52,8 +55,11 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-16" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-23" target="dOceR1FkfeFBerie9IaR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-23" value="验证流程名称、类型是否已存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="170" width="190" height="30" as="geometry" />
+          <mxGeometry x="200" y="210" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
