@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-11" value="验证流程名称、类型是否已存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
