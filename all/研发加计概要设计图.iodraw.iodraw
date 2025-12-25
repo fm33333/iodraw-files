@@ -25,6 +25,9 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-7" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-8" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
