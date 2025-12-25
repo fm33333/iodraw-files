@@ -79,8 +79,11 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-29" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dOceR1FkfeFBerie9IaR-32" value="保存流程、节点信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="146" height="30" as="geometry" />
+        <mxCell id="dOceR1FkfeFBerie9IaR-32" value="查询流程信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-33" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
