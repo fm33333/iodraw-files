@@ -46,6 +46,9 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-9" value="查询详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-10" target="dOceR1FkfeFBerie9IaR-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-10" value="启用/停用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -109,14 +112,20 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-38" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-42" target="dOceR1FkfeFBerie9IaR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-42" value="验证流程是否存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-43" target="dOceR1FkfeFBerie9IaR-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-43" value="更新流程的启用状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="146" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-44" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
