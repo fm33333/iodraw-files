@@ -37,11 +37,17 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-10" value="启用/停用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-11" target="dOceR1FkfeFBerie9IaR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-11" value="验证流程名称、类型是否已存在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-14" value="保存流程、节点信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="160" width="146" height="30" as="geometry" />
+          <mxGeometry x="420" y="160" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOceR1FkfeFBerie9IaR-16" value="新增" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
