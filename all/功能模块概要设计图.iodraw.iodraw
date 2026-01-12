@@ -589,7 +589,7 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-162" target="_f883DO28wJCnLjdk8Q5-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-162" value="查询科目比对表、设备消耗明细列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_f883DO28wJCnLjdk8Q5-162" value="查询科目比对表、设备消耗明细表、材料消耗明细表、研发项目汇总表、研发设备清单表项目人员汇总清单表列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="2260" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-163" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
