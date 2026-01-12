@@ -272,10 +272,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-49" value="查询五险一金或社保清单列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="935" width="130" height="30" as="geometry" />
+          <mxGeometry x="250" y="935" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-50" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="430" y="935" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="935" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-53" value="查询五险一金或社保清单列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1000" width="130" height="30" as="geometry" />
