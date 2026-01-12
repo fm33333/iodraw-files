@@ -212,7 +212,7 @@
           <mxGeometry x="40" y="1580" width="40" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-29" value="部&lt;div&gt;门&lt;/div&gt;&lt;div&gt;归&lt;/div&gt;&lt;div&gt;属&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1820" width="40" height="280" as="geometry" />
+          <mxGeometry x="40" y="1820" width="40" height="270" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-30" value="研&lt;div&gt;发&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;&lt;div&gt;主&lt;/div&gt;&lt;div&gt;档&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="40" y="1170" width="40" height="200" as="geometry" />
@@ -570,6 +570,9 @@
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-156" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="2060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-157" value="人员薪资模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="720" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
