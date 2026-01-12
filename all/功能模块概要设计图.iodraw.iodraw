@@ -448,7 +448,7 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-114" target="_f883DO28wJCnLjdk8Q5-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-114" value="查询辅助账列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="_f883DO28wJCnLjdk8Q5-114" value="查询详情列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1640" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-116" target="_f883DO28wJCnLjdk8Q5-117">
