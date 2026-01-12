@@ -232,6 +232,9 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-35" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="614" y="830" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-36" target="_f883DO28wJCnLjdk8Q5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-36" value="社保清单导入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
@@ -277,11 +280,23 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-50" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="935" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-53" target="_f883DO28wJCnLjdk8Q5-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-53" value="导入社保清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1000" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-54" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="945" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-58" target="_f883DO28wJCnLjdk8Q5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-58" value="导入社保清单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1050" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-59" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
