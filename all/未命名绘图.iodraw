@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="150" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-3" value="流&lt;div&gt;程&lt;/div&gt;&lt;div&gt;任&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="40" y="460" width="40" height="260" as="geometry" />
+          <mxGeometry x="40" y="460" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;事&lt;/span&gt;&lt;div&gt;件&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="40" y="760" width="40" height="160" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-49" value="获取任务详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-1" target="_f883DO28wJCnLjdk8Q5-2">
           <mxGeometry relative="1" as="geometry" />
@@ -158,10 +158,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-7" value="查询事件、流程、审核详情等信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="220" y="540" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-8" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
