@@ -580,6 +580,9 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-159" value="指&lt;div&gt;标&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;板&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="40" y="2560" width="40" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-160" target="_f883DO28wJCnLjdk8Q5-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-160" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="2260" width="90" height="30" as="geometry" />
         </mxCell>
@@ -587,10 +590,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-162" value="查询部门归属列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1830" width="168" height="30" as="geometry" />
+          <mxGeometry x="240" y="2260" width="168" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-163" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1830" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="2260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
