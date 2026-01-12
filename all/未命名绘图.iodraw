@@ -169,9 +169,6 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-12" value="新增审核事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-14" target="_f883DO28wJCnLjdk8Q5-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-14" value="验证流程是否存在、是否存在进行中的审核事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="595" width="200" height="40" as="geometry" />
         </mxCell>
