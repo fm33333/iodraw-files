@@ -314,7 +314,10 @@
           <mxGeometry x="420" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-65" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1170" width="70" height="30" as="geometry" />
+          <mxGeometry x="110" y="1170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-66" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1180" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
