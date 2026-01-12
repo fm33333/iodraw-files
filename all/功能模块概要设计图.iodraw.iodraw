@@ -467,7 +467,10 @@
           <mxGeometry x="110" y="1700" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-119" value="触发审核流，审核通过后即完成定版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="1700" width="198" height="30" as="geometry" />
+          <mxGeometry x="248" y="1700" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-123" value="触发审核流，审核通过后即完成定版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1710" width="212" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
