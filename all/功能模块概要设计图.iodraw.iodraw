@@ -235,8 +235,8 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-36" value="设备清单导入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-37" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="115" y="990" width="70" height="30" as="geometry" />
+        <mxCell id="_f883DO28wJCnLjdk8Q5-37" value="查询五险一金或社保清单列表列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-38" value="设备清单导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="1050" width="80" height="30" as="geometry" />
