@@ -199,6 +199,9 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-22" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="670" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-25" value="审核流模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="720" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
