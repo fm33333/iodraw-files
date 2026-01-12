@@ -134,7 +134,7 @@
           <mxGeometry x="110" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-49" value="获取任务详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-1" target="_f883DO28wJCnLjdk8Q5-2">
           <mxGeometry relative="1" as="geometry" />
@@ -142,11 +142,14 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-1" value="校验任务状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="465" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-2" target="_f883DO28wJCnLjdk8Q5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-2" value="通过/驳回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="465" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-5" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="465" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
