@@ -226,7 +226,7 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-34" target="_f883DO28wJCnLjdk8Q5-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-34" value="查询审批单列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_f883DO28wJCnLjdk8Q5-34" value="查询人事基础资料列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="444" y="830" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-35" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -251,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-42" value="验证用户角色权限，判断是否能查看薪资明文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="820" width="170" height="40" as="geometry" />
+          <mxGeometry x="220" y="825" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
