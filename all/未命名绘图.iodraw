@@ -151,8 +151,8 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-5" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="465" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-7" value="查询事件、流程、审核详情信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="150" height="30" as="geometry" />
+        <mxCell id="_f883DO28wJCnLjdk8Q5-7" value="查询事件、流程、审核详情等信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
