@@ -188,7 +188,10 @@
           <mxGeometry x="110" y="670" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-20" value="查询审批单列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="670" width="200" height="30" as="geometry" />
+          <mxGeometry x="220" y="670" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-22" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
