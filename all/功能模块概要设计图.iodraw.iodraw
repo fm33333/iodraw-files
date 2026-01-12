@@ -233,10 +233,13 @@
           <mxGeometry x="460" y="830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-36" value="设备清单导入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="890" width="70" height="30" as="geometry" />
+          <mxGeometry x="110" y="890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-37" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="950" width="70" height="30" as="geometry" />
+          <mxGeometry x="115" y="990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-38" value="设备清单导入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="940" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
