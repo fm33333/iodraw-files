@@ -584,16 +584,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-160" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2260" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="2270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-162" target="_f883DO28wJCnLjdk8Q5-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-162" value="查询科目比对表、设备消耗明细列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2260" width="168" height="30" as="geometry" />
+          <mxGeometry x="240" y="2260" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-163" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2260" width="60" height="30" as="geometry" />
+          <mxGeometry x="674" y="2270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
