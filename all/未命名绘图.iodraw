@@ -184,14 +184,20 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-16" value="保存事件、流程节点、事件任务等信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="595" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-19" target="_f883DO28wJCnLjdk8Q5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-19" value="查询列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-20" target="_f883DO28wJCnLjdk8Q5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-20" value="查询审批单列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-22" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
