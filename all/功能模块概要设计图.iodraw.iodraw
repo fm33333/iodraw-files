@@ -431,7 +431,16 @@
           <mxGeometry x="440" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-108" value="查询辅助账列表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1580" width="70" height="30" as="geometry" />
+          <mxGeometry x="110" y="1580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-110" target="_f883DO28wJCnLjdk8Q5-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-110" value="查询人工费用明细列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1410" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-111" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="476" y="1410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
