@@ -418,17 +418,17 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-104" target="_f883DO28wJCnLjdk8Q5-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_f883DO28wJCnLjdk8Q5-104" value="人工费用明细导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1470" width="100" height="30" as="geometry" />
+        <mxCell id="_f883DO28wJCnLjdk8Q5-104" value="传票明细导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-106" target="_f883DO28wJCnLjdk8Q5-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-106" value="导出人工费用明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1470" width="140" height="30" as="geometry" />
+          <mxGeometry x="255" y="1520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-107" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1470" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
