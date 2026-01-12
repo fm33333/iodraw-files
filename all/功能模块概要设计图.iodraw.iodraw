@@ -209,7 +209,7 @@
           <mxGeometry x="40" y="1400" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-28" value="研&lt;div&gt;发&lt;/div&gt;&lt;div&gt;支&lt;/div&gt;&lt;div&gt;出&lt;/div&gt;&lt;div&gt;辅&lt;/div&gt;&lt;div&gt;助&lt;/div&gt;&lt;div&gt;账&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1580" width="40" height="280" as="geometry" />
+          <mxGeometry x="40" y="1580" width="40" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-29" value="部&lt;div&gt;门&lt;/div&gt;&lt;div&gt;归&lt;/div&gt;&lt;div&gt;属&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="40" y="1900" width="40" height="280" as="geometry" />
@@ -491,7 +491,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-129" value="导出辅助账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="1760" width="140" height="30" as="geometry" />
+          <mxGeometry x="252" y="1760" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-130" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="437" y="1760" width="60" height="30" as="geometry" />
