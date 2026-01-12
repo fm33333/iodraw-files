@@ -472,11 +472,17 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-119" value="触发审核流，审核通过后即完成定版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="1700" width="212" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-123" target="_f883DO28wJCnLjdk8Q5-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-123" value="更新报表（科目比对表、研发项目汇总表）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="498" y="1695" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-125" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1650" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="1700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-127" value="传票明细导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1530" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
