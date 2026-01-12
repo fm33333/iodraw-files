@@ -331,6 +331,9 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-67" value="工时分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1280" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-68" target="_f883DO28wJCnLjdk8Q5-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-68" value="导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1340" width="70" height="30" as="geometry" />
         </mxCell>
@@ -377,10 +380,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-90" value="导入五险一金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1120" width="130" height="30" as="geometry" />
+          <mxGeometry x="220" y="1340" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-91" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1120" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="1340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
