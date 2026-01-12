@@ -133,6 +133,9 @@
         <mxCell id="dOceR1FkfeFBerie9IaR-48" value="审批任务&lt;div&gt;（通过/驳回）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="460" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOceR1FkfeFBerie9IaR-49" target="_f883DO28wJCnLjdk8Q5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOceR1FkfeFBerie9IaR-49" value="获取任务详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="530" width="80" height="30" as="geometry" />
         </mxCell>
@@ -151,8 +154,14 @@
         <mxCell id="_f883DO28wJCnLjdk8Q5-5" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="465" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_f883DO28wJCnLjdk8Q5-7" target="_f883DO28wJCnLjdk8Q5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-7" value="查询事件、流程、审核详情等信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_f883DO28wJCnLjdk8Q5-8" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
