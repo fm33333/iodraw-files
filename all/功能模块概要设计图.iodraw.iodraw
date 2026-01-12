@@ -614,10 +614,10 @@
           <mxGeometry x="110" y="2470" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-171" value="查询各指标数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="2460" width="360" height="50" as="geometry" />
+          <mxGeometry x="234" y="2460" width="166" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-172" value="成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="684" y="2380" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="2470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
