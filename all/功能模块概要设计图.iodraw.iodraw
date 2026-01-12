@@ -251,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_f883DO28wJCnLjdk8Q5-42" value="验证用户角色权限，判断是否能查看薪资明文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="830" width="170" height="30" as="geometry" />
+          <mxGeometry x="220" y="820" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
